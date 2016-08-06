@@ -1,0 +1,30 @@
+_repo: The-Damned_11074
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blackwood, Algernon
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '1370'
+    url: http://www.gutenberg.org/2009/agents/1370
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Blackwood
+description: Known as one of the key figures in the 'weird' horror movement that arose
+  in England and the United States in the early twentieth century, Algernon Blackwood
+  was known for inserting surprising, often sophisticated twists into his tales. The
+  Damned tells the story of a haunted house whose supernatural activity stems from
+  an unlikely source.
+gutenberg_bookshelf: Horror
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales'
+- !lcc 'PR'
+- GITenberg
+title: The Damned
+url: http://www.gutenberg.org/ebooks/11074
