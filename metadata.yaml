@@ -1,5 +1,8 @@
 _repo: The-Damned_11074
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blackwood, Algernon
@@ -13,6 +16,8 @@ description: Known as one of the key figures in the 'weird' horror movement that
   was known for inserting surprising, often sophisticated twists into his tales. The
   Damned tells the story of a haunted house whose supernatural activity stems from
   an unlikely source.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11074#The-Damned
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
